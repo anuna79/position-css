@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+}
+
+.parent{
+    height: 464px;
+    width: 686px;
+    background-color: #0019F9;
+    position: relative;
+}
+
+.child{
+    height: 190px;
+    width: 253px;
+    background-color: #F80303;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
